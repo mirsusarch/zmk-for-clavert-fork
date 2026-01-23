@@ -41,8 +41,6 @@
 &kp LSHFT   &kp Z      &kp X     &kp C      &kp V      &kp B     &lt 4 DEL     &kp SPACE  &kp PG_UP  &lt 4 F12    &kp N    &kp M      &kp COMMA  &kp DOT   &kp FSLH  &sk RSHFT
 &lt 3 LEFT  &kp RIGHT  &kp LALT  &kp SPACE  &kp SPACE  &kp BSPC  &lt 2 END                           &lt 2 PG_DN  &kp DEL  &kp ENTER  &kp LBKT   &kp RBKT  &kp UP    &kp DOWN
             >;
-
-            sensor-bindings = <&inc_dec_kp LEFT RIGHT>;
         };
 
         mac_layer {
